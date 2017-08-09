@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Palindromes.Test.deps.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Palindromes.Test.runtimeconfig.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Palindromes.Test.runtimeconfig.dev.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp1.1/Palindromes.Test.AssemblyInfo.cs
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Palindromes.Test.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Palindromes.Test.pdb
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Palindromes.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp1.1/Palindromes.pdb
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp1.1/Palindromes.Test.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp1.1/Palindromes.Test.pdb
